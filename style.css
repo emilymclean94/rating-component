@@ -81,9 +81,15 @@ li:hover {
     color: var(--white);
 }
 
-li:focus {
-    background-color: var(--white);
+/* li:active {
+    background-color: var(--Light-Grey);
+    color: var(--white);
 }
+
+li:focus {
+    background-color: var(--Light-Grey);
+    color: var(--white);
+} */
 
 .submit-btn {
     background-color: var(--orange);
